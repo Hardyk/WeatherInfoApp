@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Bookmark List</string>
+    <string name="map_fragment_label">Map</string>
+    <string name="weather_fragment_label">Weather</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="home_fab_text">Bookmark City</string>
+
+    <string name="no_network_connectivity"> No Internet Connection</string>
+    <string name="home_empty_view">You do not have any Bookmarked city.\n\nPlease go to the Map and bookmark your favourite city on Map by using long press.</string>
+
+    <string name="home_row_lat_long">Latitude  : %1$s\nLongitude :  %2$s</string>
+    <string name="temprature">Temprature : %1$s C</string>
+    <string name="max_temp">Max Temprature : %1$s C</string>
+    <string name="min_temp">Min Temprature : %1$s C</string>
+    <string name="feel_like">Feeling like  : %1$s C</string>
+    <string name="humidity">Humidity : %1$s \%%</string>
+    <string name="wind_speed">Wind Speed : %1$s Km/h</string>
+    <string name="air_pressure">Air pressure : %1$s Pa</string>
+    <string name="cloud">Cloud : %1$s </string>
+</resources>
